@@ -11,3 +11,4 @@ dependencies:
   - flask
   - scikit-learn 
   - sqlite
+  - jupyter
